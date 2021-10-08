@@ -1,0 +1,1 @@
+This is a basic recipe website to demo the skills i have learne while going through the odin project. I hope to show I have learn the very basics of html by showing lists, paragraphs, links, img etc.
